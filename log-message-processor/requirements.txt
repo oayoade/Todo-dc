@@ -1,0 +1,4 @@
+redis
+requests
+py-zipkin
+thriftpy2
