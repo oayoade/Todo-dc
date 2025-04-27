@@ -1,8 +1,3 @@
-# HNG12 DevOps Stage4 Task
-
-This Repo Contains the code for a microservice application comprising of several components communicating to each other. In other words, this is an example of microservice. These microservices are written in different languages.
-
-The app itself is a simple TODO app that additionally authenticates users.
 
 ## Components
 
@@ -20,4 +15,4 @@ Note: 3 different login details are provided in the .env file
 
 ## License
 
-MIT
+
